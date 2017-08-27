@@ -1,2 +1,18 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+// Custom css
+#admin-page {
+	padding-top: 0px;
+}
+
+#nested-comment {
+	margin-top: 32px;
+}
+
+.comment-reply {
+	display: none;
+}
